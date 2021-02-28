@@ -65,6 +65,11 @@ h1, h2 {
     padding-bottom: 200px;
 }
 
+#stations {
+    background-color:rgb(97, 224, 186);
+    padding-bottom: 200px;
+}
+
 /* basic formatting */
 
 .leftmidtext { /* middle, left align */
@@ -112,6 +117,12 @@ h4 { /* small text */
     padding-bottom: 5px;
 }
 
+/* light background */
+
+#stations h3, #stations p {
+    color: black;
+}
+
 .emph {
     color: rgb(224, 97, 150);
     font-weight: 700;
@@ -126,6 +137,12 @@ h4 { /* small text */
 
 .emph3 {
     color:rgb(97, 224, 186);
+    font-weight: 700;
+    font-style: italic;
+}
+
+.emph4 {
+    color: #4a1179;
     font-weight: 700;
     font-style: italic;
 }
