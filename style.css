@@ -70,6 +70,21 @@ h1, h2 {
     padding-bottom: 200px;
 }
 
+#vehicles {
+    background-color:#9261e0;
+    padding-bottom: 200px;
+}
+
+#conclusion {
+    background-color:#18181d;
+    padding-bottom: 200px;
+}
+
+li {
+    color: white;
+    padding-top: 0;
+}
+
 /* basic formatting */
 
 .leftmidtext { /* middle, left align */
@@ -143,6 +158,12 @@ h4 { /* small text */
 
 .emph4 {
     color: #4a1179;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.emph5 {
+    color: #114f79;
     font-weight: 700;
     font-style: italic;
 }
